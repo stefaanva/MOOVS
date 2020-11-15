@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "https://www.ayzo.be"
-title = "Moovs"
+title = "MOOVS"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "Ayzo"
+    brand = "MOOVS"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -155,32 +155,37 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Voel je beter door te bewegen
+
+
+’s Morgens snel iedereen klaarmaken en dan met de auto naar het werk vertrekken, de hele dag zittend doorbrengen achter een computer, ’s avonds eten klaarmaken en uitgeput neerploffen in de zetel…. Voor veel mensen waarschijnlijk heel herkenbaar. Het is een ritme waar wij allemaal in verzeild geraken. 
+Het gevaar is dat het vele zitten na een tijdje klachten kwalijk is voor ons lichaam. Het is namelijk belangrijk dat we ons lichaam blijven trainen om gezond te zijn. We hebben spieren nodig om ons lichaam te ondersteunen. 
+. 
+Bewegen is voor het lichaam even noodzakelijk als eten en drinken. Maar vaak wordt dat als lastig ervaren of heeft men het gevoel dat er geen tijd meer is in het drukke tijdsschema. Of mensen zijn moe door het drukke programma en hebben geen fut meer. 
+
+Nochtans zorgt regelmatig bewegen ervoor dat je minder snel klachten hebt én dat je je minder snel moe voelt. Een lichaam dat in goede conditie is, zorgt voor minder klachten!
+
+Start dus vandaag met bewegen om je lichaam terug in conditie te krijgen!
+
+Tijdens de bewegingssessie worden er oefeningen aangereikt die iedereen thuis verder kan doen. Elke oefening is aangepast aan het niveau en de noden van de sporter. 
+Daarnaast geef ik tijdens de bewegingssessies ook advies rond het inplannen van beweging in het dag- en weekschema."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Individuele &amp; bewegingssessie"
+      description = "95 €/sessie"
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Koppelbewegingssessie &amp;"
+      description = "110 €/ sessie"
       icon = "icon-layers2"
-    [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
-
-      [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
+    
 
   # About section
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Ik ben master in de kinesitherapie en motorische revalidatie. Ik heb jarenlang gewerkt als zelfstandig kinesitherapeut. Daaruit is de passie gegroeid voor beweging als preventie voor lichamelijke klachten. Zelf ben ik dol op wandelingen in de natuur met mijn hond, mountainbiken en looptochtjes. Ik probeer zoveel mogelijk verplaatsingen met de fiets te doen en zo mijn beweging in te plannen tijdens mijn werkdagen. Ik hou ervan om samen met mensen na te denken wat een haalbaar plan is om "
 
     [[params.about.item]]
       name = "Jean Smith"
