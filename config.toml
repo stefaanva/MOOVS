@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "https://www.ayzo.be"
-title = "Ayzo"
+title = "Moovs"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
